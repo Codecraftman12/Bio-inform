@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Biomedical Department - BVRIT</title>
+</head>
+<body>
+    <h1>Welcome to the Biomedical Department</h1>
+    <h2>About Us</h2>
+    <p>The Biomedical Department at BVRIT is dedicated to excellence in education and research in the field of Biomedical Engineering.</p>
+
+    <h2>Total Strength of Students</h2>
+    <p>We currently have <strong>XXX</strong> students enrolled in our department.</p>
+
+    <h2>Projects</h2>
+    <h3>Ongoing Projects</h3>
+    <ul>
+        <li>Project 1 - Description</li>
+        <li>Project 2 - Description</li>
+        <!-- Add more ongoing projects as needed -->
+    </ul>
+
+    <h3>Completed Projects</h3>
+    <ul>
+        <li>Project A - Description</li>
+        <li>Project B - Description</li>
+        <!-- Add more completed projects as needed -->
+    </ul>
+</body>
+</html>
